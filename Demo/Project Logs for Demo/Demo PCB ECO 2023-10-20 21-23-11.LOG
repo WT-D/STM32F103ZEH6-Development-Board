@@ -1,0 +1,113 @@
+Removed Member From Class: ClassName=Sensors Member=C21
+Removed Member From Class: ClassName=Sensors Member=C23
+Removed Member From Class: ClassName=Sensors Member=C25
+Removed Member From Class: ClassName=Sensors Member=C27
+Removed Member From Class: ClassName=Sensors Member=C29
+Removed Member From Class: ClassName=Sensors Member=R12
+Removed Member From Class: ClassName=Sensors Member=R13
+Removed Member From Class: ClassName=Sensors Member=U10
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Added Component: Designator=T?(7499210121A)
+Add component (AddParameter): Name = "Case/Package"; Value = "Metal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green, Silver, Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45, Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Ferrite, Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "350¶ÃH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insertion Loss (dB)"; Value = "-1dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "22mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Panel, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "22865197"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cores per Jack"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "16mm"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BLEMOD-R1-1v1-8PIN)
+Added Component: Designator=U?(STM-UFQFPN48_N)
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 7 x 7 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "UFQFPN48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103CBU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=U?(STM-UFQFPN48_N)
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Ultra Thin Fine Pitch Quad Flat No-Lead, 7 x 7 x 0.6 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "UFQFPN48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103CBU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Class: Name=Debugger
+Added Class: Name=Port
+Added Member To Class: ClassName=Sensors Member=Component C3 100 nF
+Added Member To Class: ClassName=Sensors Member=Component C4 10 ¶ÃF
+Added Member To Class: ClassName=Sensors Member=Component C6 100 nF
+Added Member To Class: ClassName=Sensors Member=Component C16 10 ¶ÃF
+Added Member To Class: ClassName=Sensors Member=Component C17 100 nF
+Added Member To Class: ClassName=Sensors Member=Component C18 22nF 0603
+Added Member To Class: ClassName=Sensors Member=Component C19 10 ¶ÃF
+Added Member To Class: ClassName=Sensors Member=Component C20 100 nF
+Added Member To Class: ClassName=MCU Member=Component C22 100 nF
+Added Member To Class: ClassName=MCU Member=Component C24 100 nF
+Added Member To Class: ClassName=MCU Member=Component C26 100 nF
+Added Member To Class: ClassName=MCU Member=Component C28 100 nF
+Added Member To Class: ClassName=MCU Member=Component C30 10¶ÃF 0402
+Added Member To Class: ClassName=MCU Member=Component C31 10 ¶ÃF
+Added Member To Class: ClassName=MCU Member=Component C32 100 nF
+Added Member To Class: ClassName=MCU Member=Component C33 TAJA106M010RNJ
+Added Member To Class: ClassName=MCU Member=Component C34 TAJA106M010RNJ
+Added Member To Class: ClassName=Sensors Member=Component R2 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensors Member=Component R3 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensors Member=Component R4 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensors Member=Component R5 4.7K 0603
+Added Member To Class: ClassName=Sensors Member=Component R6 4.7K 0603
+Added Member To Class: ClassName=Sensors Member=Component R8 4.7K 0603
+Added Member To Class: ClassName=Sensors Member=Component R10 RC0603FR-0710KL
+Added Member To Class: ClassName=MCU Member=Component R11 4.7K 0603
+Added Member To Class: ClassName=MCU Member=Component R14 5.1K
+Added Member To Class: ClassName=MCU Member=Component R15 ERJ-3EKF22R0V
+Added Member To Class: ClassName=Sensors Member=Component U8 RT9193-18GB
+Added Member To Class: ClassName=MCU Member=Component U9 STM32F103VEH6

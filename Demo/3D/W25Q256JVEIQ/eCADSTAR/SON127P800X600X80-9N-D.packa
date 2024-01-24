@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "W25Q256JVEIQ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-06-14-10:18:49)
+    (mountForm default
+        (footprintRef "SON127P800X600X80-9N-D")
+        (spec "System")
+    )
+)

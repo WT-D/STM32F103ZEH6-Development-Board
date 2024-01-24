@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R43 Old Footprint=RESC1608X55X25ML10T15 New Footprint=5.1K_0603
+Change Component Comment : Designator=R43 Old Comment=RC0603FR-071K5L New Comment=1.5K 0603
+Change Managed Component Library Link : Designator=R43 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=789E4D25-88C6-4213-9D42-97D0898E877F New ItemGUID= Old RevisionGUID=41AB76D9-3807-4EA4-838C-275449DFFF4A New RevisionGUID=
+Change component parameters: Designator = "R43" ("R43"); Footprint = "RESC1608X55X25ML10T15"; UniqueID = "\GAWLKOLA" ("\GAWLKOLA")
+Added Member To Class: ClassName=Sensors Member=Component R4 RC0603FR-0747KL
+Added Member To Class: ClassName=Sensors Member=Component R5 RC0603FR-0710KL
+Added Member To Class: ClassName=Sensors Member=Component R6 RC0603FR-0710KL
+Added Room: Name=MCU

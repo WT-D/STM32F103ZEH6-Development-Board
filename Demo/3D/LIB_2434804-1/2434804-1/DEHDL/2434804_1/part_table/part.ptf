@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2434804_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2434804-1" (!) = "", "24348041", "Other", "655-2434804-1", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2434804-1?qs=amGC7iS6iy%2Ff1nJtCucIMQ%3D%3D", "", "", "Tactile Switches, Extended, Top Actuator Style, NO, Stainless Steel, Silver, Low Profile, 50 mA, 12 VDC", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2434804%7FA%7Fpdf%7FEnglish%7FENG_CD_2434804_A.pdf%7F2434804-1", "5.7 mm"
+END_PART
+
+END.

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=USB_D+ Pin=R43-1
+Added Pin To Net: NetName=NetJ2_A6 Pin=R43-1
+Added Room: Name=MCU

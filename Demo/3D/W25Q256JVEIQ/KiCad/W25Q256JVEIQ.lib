@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model W25Q256JVEIQ
+#/1278216/1225909/2.50/9/2/Integrated Circuit
+DEF W25Q256JVEIQ IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "W25Q256JVEIQ" 1450 200 50 H V L CNN
+F2 "SON127P800X600X80-9N-D" 1450 100 50 H I L CNN
+F3 "https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q256JVEIQ&type=datasheet" 1450 0 50 H I L CNN
+F4 "256M-bit Serial Flash Memory with uniform 4KB sectors and Dual/Quad SPI" 1450 -100 50 H I L CNN "Description"
+F5 "0.8" 1450 -200 50 H I L CNN "Height"
+F6 "Winbond" 1450 -300 50 H I L CNN "Manufacturer_Name"
+F7 "W25Q256JVEIQ" 1450 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "454-W25Q256JVEIQ" 1450 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Winbond/W25Q256JVEIQ?qs=qSfuJ%252Bfl%2Fd4o%2FNFUf7yCgA%3D%3D" 1450 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "W25Q256JVEIQ" 1450 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/w25q256jveiq/winbond-electronics?region=nac" 1450 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X /CS 1 0 0 200 R 50 50 0 0 P
+X DO_(IO1)_1 2 0 -100 200 R 50 50 0 0 P
+X DO_(IO1)_2 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X EP 9 800 -800 200 U 50 50 0 0 P
+X VCC 8 1600 0 200 L 50 50 0 0 P
+X IO3 7 1600 -100 200 L 50 50 0 0 P
+X CLK 6 1600 -200 200 L 50 50 0 0 P
+X DI_(IO0) 5 1600 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

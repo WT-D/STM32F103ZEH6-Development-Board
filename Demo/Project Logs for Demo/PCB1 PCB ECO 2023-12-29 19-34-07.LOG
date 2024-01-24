@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=FSMC_NE3 Pin=R48-1
+Removed Pin From Net: NetName=3V3 Pin=R48-2
+Change Component Footprint: Designator=R48 Old Footprint=FP-ERA2A-IPC_B New Footprint=5.1K_0603
+Change Component Comment : Designator=R48 Old Comment=10K New Comment=10K 0603
+Change Managed Component Library Link : Designator=R48 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=F4CF117C-FB31-4F16-935F-DE85EFD6913D New ItemGUID= Old RevisionGUID=3AE389F6-FA39-401D-88AC-CBE129580FB4 New RevisionGUID=
+Change component parameters: Designator = "R48" ("R48"); Footprint = "FP-ERA2A-IPC_B"; UniqueID = "\SIVACOZY" ("\SIVACOZY")
+Added Pin To Net: NetName=3V3 Pin=R48-1
+Added Pin To Net: NetName=FSMC_NE3 Pin=R48-2
+Added Room: Name=MCU

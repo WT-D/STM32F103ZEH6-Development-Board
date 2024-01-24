@@ -1,0 +1,163 @@
+Altium Designer Pick and Place Locations
+E:\Altium\STM32F103ZEU6\Demo\Project Outputs for Demo\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/01/24
+Time:       20:19
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Layer       Footprint                       Center-X(mm) Center-Y(mm) Rotation 
+R4         AF0402JR-074K7L       BottomLayer FP-AF0402-IPC_B                 71.2946      43.6880      180      
+Y2         25.0MHZ               TopLayer    FP-ABM8G-MFG                    51.9040      69.6390      90       
+Y1         ABS07-120-32.768KHZ-T TopLayer    FP-ABS07-120-MFG                76.8350      54.4630      270      
+X1         8M                    TopLayer    OSC_3225-4P                     71.5350      54.1410      0        
+U12        IS62WV51216BLL-55TLI  TopLayer    ISSI-TSOP-2-44_N                34.3980      47.2570      90       
+U11        W25Q256JVEIQ          TopLayer    W25Q256JVEIQ                    61.3726      59.3570      180      
+U10        AT24C04C-MAHM-T       TopLayer    FP-C04-21355-Q4B-IPC_B          78.0765      27.0630      0        
+U9         BW16                  TopLayer    BW16                            94.9949      67.3250      0        
+U8         TPS63001DRCR          TopLayer    DRC0010J_V                      89.5350      32.2580      90       
+U7         STM32F103ZEH6         TopLayer    STM-LFBGA144                    64.7890      43.6440      270      
+U6         RT9193-18GB           TopLayer    SOT94P279X130-5N                49.9945      30.0355      180      
+U4         LIS2DS12TR            TopLayer    FP-LGA12_8566956-MFG            88.7770      18.1615      0        
+U5         BMP390                TopLayer    BMP390                          70.2310      27.8130      0        
+U2         MAX30102EFD+          TopLayer    FP-F143A5-1-MFG                 50.1650      19.9390      180      
+U3         SHT40-AD1B-R2         TopLayer    FP-SHT40-AD1B-R2-MFG            72.6630      19.2390      270      
+U1         ENS160                TopLayer    ENS_160                         79.6630      20.0660      0        
+TF1        473092651             TopLayer    TF-SMD_47309-2285               104.0259     49.8920      90       
+T1         7499010121A           TopLayer    7499010121A                     21.3931      68.7070      270      
+SW3        SKPMAPE010            TopLayer    KEY-SMD_2P-L6.0-W6.0-P6.00      12.9540      39.8780      180      
+SW2        SKPMAPE010            TopLayer    KEY-SMD_2P-L6.0-W6.0-P6.00      12.9540      52.5780      180      
+SW1        SKPMAPE010            TopLayer    KEY-SMD_2P-L6.0-W6.0-P6.00      12.9540      46.2280      180      
+R48        "10K 0603"            BottomLayer 5.1K_0603                       31.5310      44.0690      180      
+R47        5.1K                  TopLayer    5.1K_0603                       97.3740      26.5430      180      
+R46        ERJ-3EKF22R0V         TopLayer    RESC1608X55X30LL15T15           97.4090      22.3520      180      
+R45        ERJ-3EKF22R0V         TopLayer    RESC1608X55X30LL15T15           97.4090      23.6220      180      
+R44        5.1K                  TopLayer    5.1K_0603                       97.3740      20.9550      180      
+R43        "1.5K 0603"           TopLayer    5.1K_0603                       97.3170      25.0190      180      
+R42        RC0603FR-071KL        BottomLayer FP-RC0603-0_55-IPC_C            21.8440      24.2153      270      
+R41        RC0603FR-0710KL       BottomLayer FP-RC0603-0_55-IPC_C            19.1353      23.6220      0        
+R40        RT0603DRE0710RL       BottomLayer FP-RT0603-MFG                   21.8440      27.0510      270      
+R39        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            97.9170      44.9580      0        
+R38        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            97.9170      46.8630      0        
+R37        "4.7K 0603"           TopLayer    RESC1608X55X25LL10T15           102.2350     56.5150      0        
+R36        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            97.9170      50.9270      180      
+R35        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            97.9170      52.8320      0        
+R34        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            98.0023      54.7370      0        
+R33        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            105.1560     71.1200      90       
+R32        "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            105.1560     73.6183      90       
+R31        "12.4K 0603"          TopLayer    4.7R                            35.0520      62.3570      270      
+R30        "0603 1M"             TopLayer    FP-RC0603-0_55-IPC_C            49.0220      69.6813      90       
+R29        49.9R                 TopLayer    FP-RT0603-MFG                   31.3690      73.4060      180      
+R28        49.9R                 TopLayer    FP-RT0603-MFG                   31.3690      69.5960      180      
+R27        270R                  TopLayer    FP-RT0603-MFG                   27.2170      78.1050      0        
+R26        270R                  TopLayer    FP-RT0603-MFG                   27.2170      59.4070      0        
+R25        "10R 0603"            TopLayer    FP-RT0603-MFG                   31.3690      61.9760      180      
+R24        RC0603FR-0747KL       TopLayer    FP-RC0603FR-0747KL-MFG          42.5450      77.1770      90       
+R23        RC0603FR-0747KL       TopLayer    FP-RC0603FR-0747KL-MFG          41.1480      77.1770      90       
+R22        RC0603FR-0747KL       TopLayer    FP-RC0603FR-0747KL-MFG          39.7510      77.1380      90       
+R21        49.9R                 TopLayer    FP-RT0603-MFG                   31.3690      65.7860      0        
+R20        49.9R                 TopLayer    FP-RT0603-MFG                   31.4080      63.8810      0        
+R19        RR0816P-101-D         TopLayer    FP-RR0816-MFG                   92.8370      35.0520      270      
+R18        "4.7K 0603"           TopLayer    RESC1608X55X25LL10T15           88.3030      37.6300      180      
+R17        "10K 0603"            BottomLayer FP-RC0603-0_55-IPC_C            15.8750      37.8460      180      
+R16        "10K 0603"            BottomLayer FP-RC0603-0_55-IPC_C            11.3883      54.8640      0        
+R15        ERA-2AED103X          BottomLayer FP-ERA2A-IPC_B                  67.3100      44.0690      90       
+R14        "1K 0603"             TopLayer    4.7R                            11.4650      56.5150      180      
+R13        2K                    TopLayer    5.1K_0603                       58.8443      24.5191      45       
+R12        510R                  TopLayer    5.1K_0603                       56.9797      22.6546      225      
+R11        820R                  TopLayer    5.1K_0603                       55.9233      20.6226      315      
+R10        1.8K                  TopLayer    5.1K_0603                       66.0833      16.7721      45       
+R9         5.1K                  TopLayer    5.1K_0603                       60.6627      26.3376      225      
+R8         ERA-2AED103X          BottomLayer FP-ERA2A-IPC_B                  58.1660      44.8310      0        
+R5         RC0603FR-0710KL       TopLayer    FP-RC0603-0_55-IPC_C            85.8520      18.9230      270      
+R7         RC0603FR-0710KL       TopLayer    FP-RC0603-0_55-IPC_C            50.7365      32.7025      180      
+R6         RC0603FR-0710KL       TopLayer    FP-RC0603-0_55-IPC_C            70.1893      25.6540      180      
+R3         AF0402JR-074K7L       BottomLayer FP-AF0402-IPC_B                 71.2946      45.3390      180      
+R2         RC0603FR-0710KL       TopLayer    FP-RC0603-0_55-IPC_C            82.5500      20.2347      90       
+R1         "10K 0603"            TopLayer    FP-RC0603-0_55-IPC_C            76.7080      19.3040      90       
+Q1         SS8050-G              BottomLayer FP-SS8050-G-MFG                 19.1770      26.1620      0        
+LCD1       1.14_LCD              TopLayer    1.14_LCD                        24.6704      25.5154      180      
+L1         SRN3015-2R2M          TopLayer    BOUR-SRN3015-2_V                89.5350      28.3210      180      
+J3         15-91-2200            TopLayer    FP-15-91-2200-MFG               69.0880      75.1180      0        
+J2         USB4105-GF-A          TopLayer    FP-USB4105-GF-A-MFG             103.3085     23.4950      90       
+J1         2434804-1             TopLayer    24348041                        62.4635      20.6696      315      
+FB1        "600R 100MHz"         TopLayer    FP-BLM18-0_15-t0_8-MFG          48.7680      61.7220      90       
+D3         0603                  TopLayer    WL-SMCW_0603_150060xx75000      104.7750     56.5150      180      
+D2         150060GS75000         TopLayer    WL-SMCW_0603_150060xx75000      90.8430      37.6300      180      
+D1         150060GS75000         TopLayer    WL-SMCW_0603_150060xx75000      14.2240      56.5150      180      
+CN1        3132-14MG0BK00R1      TopLayer    STDC14_Header                   102.7680     36.1950      90       
+C69        "22¦ÌF 0603"           TopLayer    CAPC1608X100X20ML10             35.6870      55.8800      270      
+C68        "100 nF"              TopLayer    FP-CL10-IPC_A                   33.9090      55.8800      90       
+C67        "100 nF"              BottomLayer FP-CL10-IPC_A                   34.8600      44.1960      0        
+C66        "100 nF"              BottomLayer FP-CL10-IPC_A                   21.1440      29.8450      180      
+C65        "100 nF"              TopLayer    FP-CL10-IPC_A                   58.9021      54.7429      180      
+C64        "100 nF"              TopLayer    FP-CL10-IPC_A                   78.1050      29.5910      180      
+C63        "100 nF"              TopLayer    FP-CL10-IPC_A                   97.9170      48.8950      180      
+C62        "100 nF"              TopLayer    FP-CL10-IPC_A                   88.1380      56.8960      0        
+C61        "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   84.9630      62.1110      90       
+C60        "10nF 0603"           TopLayer    FP-CC0603-DA-MFG                45.0850      61.7220      270      
+C59        "4.7¦ÌF 0603"          TopLayer    FP-C0603-CG-MFG                 41.0210      61.7220      270      
+C58        "100 nF"              TopLayer    FP-CL10-IPC_A                   38.9890      61.6570      270      
+C57        "100 nF"              BottomLayer FP-CL10-IPC_A                   38.5430      70.9930      0        
+C56        "100 nF"              BottomLayer FP-CL10-IPC_A                   38.5460      66.5480      0        
+C55        "100 nF"              BottomLayer FP-CL10-IPC_A                   38.5430      68.8340      0        
+C54        "100 nF"              TopLayer    FP-CL10-IPC_A                   43.0530      61.6570      270      
+C53        "100 nF"              TopLayer    FP-CL10-IPC_A                   36.9570      61.6570      270      
+C52        "18pF 0603"           TopLayer    FP-C1608-080-0_1-IPC_C          52.0700      66.5480      180      
+C51        "10nF 0603"           TopLayer    FP-CC0603-DA-MFG                31.3690      71.5010      0        
+C50        "18pF 0603"           TopLayer    FP-C1608-080-0_1-IPC_C          51.9755      72.6440      0        
+C49        6.8nF                 TopLayer    FP-CC0603-DA-MFG                31.3570      75.3110      180      
+C48        22nF                  TopLayer    FP-CC0603-DA-MFG                23.5070      78.1050      180      
+C47        6.8nF                 TopLayer    FP-CC0603-DA-MFG                31.3690      67.6910      180      
+C46        "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   46.9900      61.7300      270      
+C45        "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   50.5460      61.7220      270      
+C44        "100 nF"              TopLayer    FP-CL10-IPC_A                   48.7030      59.4360      0        
+C43        "10¦ÌF 0402"           BottomLayer FP-CL05A106MP5NUNC-MFG          58.3385      48.3870      0        
+C42        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           63.8810      42.0370      270      
+C41        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           67.9450      50.0570      90       
+C40        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           65.8940      43.9420      0        
+C39        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           63.3920      44.7040      180      
+C38        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           65.5130      42.6720      0        
+C37        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           63.3730      43.6880      180      
+C36        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           64.7890      44.9580      180      
+C35        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           67.1830      46.9900      90       
+C34        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           64.7890      46.1010      180      
+C33        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           60.7060      49.9300      90       
+C32        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           63.2460      40.1130      270      
+C31        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           58.9280      50.0380      90       
+C30        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           64.8970      40.1320      270      
+C29        "100 nF"              BottomLayer FP-C1005-050-0_05-MFG           65.1510      41.5100      270      
+C28        "100 nF"              TopLayer    FP-CL10-IPC_A                   89.3430      35.6870      180      
+C27        TAJA106M010RNJ        TopLayer    FP-TAJA-MFG                     85.9790      35.0820      270      
+C26        TAJA106M010RNJ        TopLayer    FP-TAJA-MFG                     85.9790      29.8150      90       
+C25        "100 nF"              TopLayer    FP-CL10-IPC_A                   92.8370      31.1770      90       
+C24        "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   92.5830      27.9480      270      
+C23        "100 nF"              BottomLayer FP-CL10-IPC_A                   12.9540      40.3860      0        
+C22        7pF                   TopLayer    FP-GJM155-0_05-IPC_B            74.4617      55.3720      90       
+C21        7pF                   TopLayer    FP-GJM155-0_05-IPC_B            76.7874      51.6890      180      
+C20        7pF                   TopLayer    FP-GJM155-0_05-IPC_B            68.5800      53.4670      90       
+C19        "10nF 0603"           BottomLayer FP-CC0603-DA-MFG                61.7443      22.3743      45       
+C18        7pF                   TopLayer    FP-GJM155-0_05-IPC_B            72.5327      56.7690      180      
+C17        "100 nF"              TopLayer    FP-CL10-IPC_A                   49.9745      27.2415      0        
+C16        "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   46.9265      29.6545      90       
+C15        "22nF 0603"           TopLayer    FP-0603-L_1_6_0_15-W_0_81-IPC_C 48.2056      32.7025      0        
+C11        "100 nF"              TopLayer    FP-CL10-IPC_A                   90.6780      20.9550      0        
+C14        "100 nF"              TopLayer    FP-CL10-IPC_A                   53.1495      28.1925      90       
+C10        "100 nF"              TopLayer    FP-CL10-IPC_A                   91.5670      17.8450      90       
+C9         "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   87.8840      20.9550      0        
+C13        "10 ¦ÌF"               TopLayer    FP-CL10-IPC_C                   53.1495      31.4245      270      
+C12        "100 nF"              TopLayer    FP-CL10-IPC_A                   72.5170      26.9860      90       
+C8         "100 nF"              TopLayer    FP-CL10-IPC_A                   70.0390      30.2260      0        
+C6         "100 nF"              BottomLayer FP-CL10-IPC_A                   46.7360      21.9090      90       
+C5         "10 ¦ÌF"               BottomLayer FP-CL10-IPC_C                   44.7040      21.8440      90       
+C7         "100 nF"              TopLayer    FP-CL10-IPC_A                   82.1040      16.7640      180      
+C4         "100 nF"              TopLayer    FP-CL10-IPC_A                   78.0400      16.7640      180      
+C3         "100 nF"              TopLayer    FP-CL10-IPC_A                   72.5790      16.7640      0        
+C2         "100 nF"              BottomLayer FP-CL10-IPC_A                   46.7360      17.9070      90       
+C1         "10 ¦ÌF"               BottomLayer FP-CL10-IPC_C                   44.7040      18.0340      90       
+B2         PESD3V3L1BA_115       TopLayer    SOD2512X110N                    84.9630      58.7940      270      
+B1         W5500                 TopLayer    W5500                           41.9570      69.6240      0        

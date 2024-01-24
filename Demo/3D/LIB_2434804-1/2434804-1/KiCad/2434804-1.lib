@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2434804-1
+#/17576028/1225909/2.50/8/3/Connector
+DEF 2434804-1 J 0 30 Y Y 1 F N
+F0 "J" 1050 600 50 H V L CNN
+F1 "2434804-1" 1050 500 50 H V L CNN
+F2 "24348041" 1050 400 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2434804%7FA%7Fpdf%7FEnglish%7FENG_CD_2434804_A.pdf%7F2434804-1" 1050 300 50 H I L CNN
+F4 "Tactile Switches, Extended, Top Actuator Style, NO, Stainless Steel, Silver, Low Profile, 50 mA, 12 VDC" 1050 200 50 H I L CNN "Description"
+F5 "5.7" 1050 100 50 H I L CNN "Height"
+F6 "TE Connectivity" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "2434804-1" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "655-2434804-1" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2434804-1?qs=amGC7iS6iy%2Ff1nJtCucIMQ%3D%3D" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -400 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -500 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A 1 0 0 200 R 50 50 0 0 P
+X CENTER 2 0 -100 200 R 50 50 0 0 P
+X C 3 0 -200 200 R 50 50 0 0 P
+X B 4 1200 0 200 L 50 50 0 0 P
+X C/M 5 1200 -100 200 L 50 50 0 0 P
+X D 6 1200 -200 200 L 50 50 0 0 P
+X MP1 MP1 600 600 200 D 50 50 0 0 P
+X MP2 MP2 600 -800 200 U 50 50 0 0 P
+P 5 0 1 6 200 400 1000 400 1000 -600 200 -600 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library

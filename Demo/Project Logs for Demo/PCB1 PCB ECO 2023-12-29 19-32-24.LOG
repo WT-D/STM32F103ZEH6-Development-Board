@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3 Pin=C67-1
+Added Pin To Net: NetName=3V3 Pin=C68-1
+Added Pin To Net: NetName=3V3 Pin=C69-2
+Added Pin To Net: NetName=3V3 Pin=U12-11
+Added Pin To Net: NetName=3V3 Pin=U12-33
+Added Room: Name=MCU
